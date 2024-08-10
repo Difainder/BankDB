@@ -1,0 +1,51 @@
+C:\SQL Labs\(x)cyeta\bin\Debug\(x)cyeta.exe.config
+C:\SQL Labs\(x)cyeta\bin\Debug\(x)cyeta.exe
+C:\SQL Labs\(x)cyeta\bin\Debug\(x)cyeta.pdb
+C:\SQL Labs\(x)cyeta\obj\Debug\(x)cyeta.csprojAssemblyReference.cache
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form1.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Properties.Resources.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\(x)cyeta.csproj.GenerateResource.cache
+C:\SQL Labs\(x)cyeta\obj\Debug\(x)cyeta.csproj.CoreCompileInputs.cache
+C:\SQL Labs\(x)cyeta\obj\Debug\(x)cyeta.exe
+C:\SQL Labs\(x)cyeta\obj\Debug\(x)cyeta.pdb
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form2.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form3.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\bin\Debug\(x)cyeta.exe.config
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\bin\Debug\(x)cyeta.exe
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\bin\Debug\(x)cyeta.pdb
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\(x)cyeta.csprojAssemblyReference.cache
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form1.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form2.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form3.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Properties.Resources.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\(x)cyeta.csproj.GenerateResource.cache
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\(x)cyeta.csproj.CoreCompileInputs.cache
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\(x)cyeta.exe
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\(x)cyeta.pdb
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form4.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form5.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form6.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form7.resources
+D:\systemFiles\downloads\(x)cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form8.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form4.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form5.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form6.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form7.resources
+C:\SQL Labs\(x)cyeta\obj\Debug\_x_cyeta.Form8.resources
+C:\SQL Labs\cyeta\(x)cyeta\bin\Debug\(x)cyeta.exe.config
+C:\SQL Labs\cyeta\(x)cyeta\bin\Debug\(x)cyeta.exe
+C:\SQL Labs\cyeta\(x)cyeta\bin\Debug\(x)cyeta.pdb
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\(x)cyeta.csprojAssemblyReference.cache
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form1.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form2.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form3.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form4.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form5.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form6.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form7.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Form8.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\_x_cyeta.Properties.Resources.resources
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\(x)cyeta.csproj.GenerateResource.cache
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\(x)cyeta.csproj.CoreCompileInputs.cache
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\(x)cyeta.exe
+C:\SQL Labs\cyeta\(x)cyeta\obj\Debug\(x)cyeta.pdb
